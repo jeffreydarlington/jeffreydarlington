@@ -2,7 +2,7 @@
 Hey! I'm Jeffrey Darlington, a self-taught developer passionate about building interactive<br/>
 Learning new technologies<br/>
 Chilling<br/>
-Here is my website [https://jeffreydarlington.github.io/jeffreyDarlington-Portofolio/]
+Here is my website [https://jeffreydarlington.github.io/]
 
 
 ## 🌐 Socials:
