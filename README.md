@@ -2,7 +2,7 @@
 Hey! I'm Jeffrey Darlington, a self-taught developer passionate about building interactive<br/>
 Learning new technologies<br/>
 Chilling<br/>
-Here is my website [https://jeffreydarlington.github.io/]
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://jeffreydarlington.github.io/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeffrey-darlington/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@jeffrey2md) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jeffdton) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/JeffreyDarlington) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamaramiekadarlington@gmail.com) 
