@@ -2,6 +2,8 @@
 Hey! I'm Jeffrey Darlington, a self-taught developer passionate about building interactive<br/>
 Learning new technologies<br/>
 Chilling<br/>
+
+## My site 😎
 [![MyWebsite](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://jeffreydarlington.github.io/)
 
 ## 🌐 Socials:
