@@ -1,5 +1,5 @@
 # Hi I am Jeffrey
-Hey! I'm Jeffrey Darlington, a self-taught developer passionate about building interactive<br/>
+Hey! I'm Jeffrey Darlington, a self-taught developer passionate about building interactive websites and learning data analyst<br/>
 Learning new technologies<br/>
 Chilling<br/>
 
