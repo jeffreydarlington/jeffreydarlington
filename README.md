@@ -3,7 +3,7 @@ Hey! I'm Tamaramieka Jeffrey Darlington, a self-taught developer passionate abou
 Learning new technologies<br/>
 Chilling<br/>
 
-## My site 😎
+## 🌐 My site
 [![MyWebsite](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://jeffreydarlington.github.io/)
 
 ## 🌐 Socials:
