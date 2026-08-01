@@ -53,19 +53,3 @@ I'm a self-taught developer with a background spanning software development, dat
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=jeffreydarlington&theme=date_night&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jeffreydarlington&theme=date_night&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreydarlington&theme=date_night&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jeffreydarlington&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=jeffreydarlington&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeffreydarlington&icon=9&color=6)](https://visitcount.itsvg.in)
