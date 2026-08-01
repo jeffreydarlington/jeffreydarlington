@@ -1,4 +1,4 @@
-# Hi, I'm Jeffrey Darlington 👋
+# Hi, I'm Tamaramieka Jeffrey Darlington 👋
 
 I'm a self-taught developer with a background spanning software development, data engineering, and hardware design. I'm currently deepening my Java and enterprise development skills while building toward long-term goals in tech and health.
 
